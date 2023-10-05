@@ -2,5 +2,5 @@
 
 The final project for Udacity's AI Programming With Python. 
 
-The model trained can predict what the image is. 
+Model trained from this project can predict what the image is. 
 Use the terminal App, to determine your own architecture, data folder, etc.
